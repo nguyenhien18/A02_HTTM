@@ -1,0 +1,31 @@
+# Dependencies
+node_modules/
+
+# Expo and React Native generated files
+.expo/
+.expo-shared/
+
+# Frontend build output and caches
+dist/
+.vite/
+
+# Python generated files
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+
+# Jupyter generated checkpoints
+.ipynb_checkpoints/
+
+# Local environment and logs
+.env
+.env.*
+*.log
+
+# Operating system and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
